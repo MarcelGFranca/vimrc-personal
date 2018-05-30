@@ -137,6 +137,11 @@ Plug 'tpope/vim-commentary'
 Plug 'vim-scripts/PDV--phpDocumentor-for-Vim'
 Plug 'jwalton512/vim-blade'
 Plug 'valloric/youcompleteme'
+Plug 'tomasr/molokai'
+Plug 'sickill/vim-monokai'
+Plug 'dracula/dracula-theme'
+Plug 'sjl/badwolf'
+Plug 'chriskempson/base16-vim'
 
 " Plug On-demand loading
 Plug 'scrooloose/nerdtree', {'on': 'NERDTreeToggle'}
